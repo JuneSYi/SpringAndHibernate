@@ -11,7 +11,7 @@
 	<classpathentry kind="lib" path="lib/istack-commons-runtime-3.0.7.jar"/>
 	<classpathentry kind="lib" path="lib/jandex-2.4.2.Final.jar"/>
 	<classpathentry kind="lib" path="lib/javax.activation-api-1.2.0.jar"/>
-	<classpathentry kind="lib" path="lib/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/javax.persistence-api-2.2.jar" sourcepath="lib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
 	<classpathentry kind="lib" path="lib/jaxb-api-2.3.1.jar"/>
 	<classpathentry kind="lib" path="lib/jaxb-runtime-2.3.1.jar"/>
 	<classpathentry kind="lib" path="lib/jboss-logging-3.4.3.Final.jar"/>
@@ -19,5 +19,6 @@
 	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.30.jar"/>
 	<classpathentry kind="lib" path="lib/stax-ex-1.8.jar"/>
 	<classpathentry kind="lib" path="lib/txw2-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
