@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="hibernate-tutorial:ear">
+    <output-path>$PROJECT_DIR$/classes/artifacts/hibernate_tutorial_ear</output-path>
+    <root id="archive" name="hibernate-tutorial_ear.ear">
+      <element id="artifact" artifact-name="hibernate-tutorial:ear exploded" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

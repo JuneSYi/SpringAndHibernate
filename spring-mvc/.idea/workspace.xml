@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0f4867b-52f6-4e1e-abf9-49adeb08af5f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/BaseballCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/BaseballCoach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/BeanLifeCycleDemoApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/BeanLifeCycleDemoApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/BeanScopeDemoApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/BeanScopeDemoApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/Coach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/Coach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/CricketCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/CricketCoach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/FortuneService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/FortuneService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/HappyFortuneService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/HappyFortuneService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/HelloSpringApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/HelloSpringApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/MyApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/MyApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/RandomFortuneApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/RandomFortuneApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/RandomFortuneGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/RandomFortuneGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/SetterDemoApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/SetterDemoApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/SwimmingCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/SwimmingCoach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/TrackCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-one/bin/com/inversionOfControl/springDemo/TrackCoach.class" afterDir="false" />
-    </list>
+    <list default="true" id="f0f4867b-52f6-4e1e-abf9-49adeb08af5f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +12,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/Student.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/SillyController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/Customer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/HelloWorldController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/HomeController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/CustomerController.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2BWVVNp9mb7a6x5b04FywNJtwTv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../Program Files/Apache Software Foundation/Tomcat 9.0/bin/catalina.bat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DataStructuresAndAlgorithms" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4931003" />
@@ -48,9 +42,7 @@
       <option name="adminPort" value="8005" />
       <option name="contextPath" value="/spring-mvc" />
       <option name="docBase" value="C:\Users\junes\OneDrive\Desktop\GitHub\SpringAndHibernate\spring-mvc\WebContent\WEB-INF\view" />
-      <option name="envOptions">
-        <map />
-      </option>
+      <option name="envOptions" />
       <option name="passParentEnvironmentVariables" value="true" />
       <option name="port" value="8080" />
       <option name="tomcatInfo">
