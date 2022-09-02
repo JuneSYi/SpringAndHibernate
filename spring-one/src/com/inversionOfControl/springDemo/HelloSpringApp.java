@@ -22,6 +22,25 @@ public class HelloSpringApp {
 		System.out.println(theCoach.getDailyFortune());
 		// close the context
 		context.close();
+		
+		System.out.println("new code");
+		
+		TrackCoach run = new TrackCoach();
+		
+		System.out.println(run.getDailyWorkout());
+		/*
+		 * applicationContext.xml loads the beans for mycaoch and secondcoach,
+		 * also loads the dependency of HappyFortuneService
+		 * 
+		 * when we call theCoach.getDailyFortune(), theCoach refers to myCoach id bean, 
+		 * which in the .xml file is TrackCoach.
+		 * Track has a parameter input from FortuneService. this fortuneservice is 
+		 * referenced in the constructor injection "myFortuneService"
+		 * "myFortuneService" is defined as a dependency in the .xml file as HappyFortuneService.
+		 * HappyFortuneService has a string .getFortune(). this .getFortune() is overrided in Track Coach
+		 * as getDailyFortune()
+		 * 
+		 */
 	}
 
 }
